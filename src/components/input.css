@@ -1,0 +1,41 @@
+.backgroundcolor {
+    background-color: #3E936B !important;
+    padding-top: 15px !important;
+    height: 20% !important;
+}
+
+.backgroundcolortwo {
+    background-color: rgba(189, 235, 225, 0.6) !important;
+
+    height: 100vh !important;
+}
+
+.input {
+
+    margin: auto !important;
+    position: relative !important;
+    top: -10% !important;
+}
+
+.prog {
+
+    font-family: inherit !important;
+    color: #3E936B !important;
+}
+
+.loginbtn {
+    background-color: #3E936B !important;
+    color: aliceblue !important;
+    text-transform: capitalize !important;
+
+}
+
+.loginbtn:hover {
+    background-color: #3E936B !important;
+    color: aliceblue !important;
+    text-transform: capitalize !important;
+
+}
+.value{
+margin-left: 20px;
+}
